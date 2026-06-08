@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sudeshmahato697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudeshmahato697" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudesh-mahato-1bb0182a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudesh-mahato-1bb0182a4" height="30" width="40" /></a>
-<a href="https://fb.com/staylish.sudesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="staylish.sudesh" height="30" width="40" /></a>
-<a href="https://instagram.com/sudesh_editz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudesh_editz" height="30" width="40" /></a>
+<a href="https://x.com/Sudeesh31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sudesh31" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudesh-mahato-1bb0182a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudesh mahato" height="30" width="40" /></a>
+<a href="https://www.facebook.com/itzsudesh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sudesh Mahato" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itzsudesh05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzsudesh05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
