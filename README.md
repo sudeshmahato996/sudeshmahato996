@@ -1,12 +1,14 @@
 <!-- Header -->
 <div align="center">
+sudesh@mahato:~$ whoami
+
 # Sudesh Mahato
 ### `BCA student` · `learning while building` · `breaking things to understand them`
 
 ![](https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-brightgreen?style=flat-square&logo=kalilinux&logoColor=white)
 ![](https://img.shields.io/badge/Software-Dev-blue?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/App-Dev-orange?style=flat-square&logo=android&logoColor=white)
-![](https://img.shields.io/badge/BCA-West%20Benga-purple?style=flat-square)
+![](https://img.shields.io/badge/BCA-West%20Bengal-purple?style=flat-square)
 
 </div>
 
